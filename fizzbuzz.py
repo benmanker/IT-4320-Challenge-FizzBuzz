@@ -6,4 +6,5 @@ for x in range(1, 101):
     elif x % 5 == 0 and x % 3 != 0:
         print("Buzz")
     else: print(x)
+
     
